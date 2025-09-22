@@ -1,98 +1,56 @@
-<!-- Banner animado de boas-vindas -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" alt="Bem-vindo!"/>
-</p>
+<h1 align="center">Olá, eu sou o Miguel Dinois! 👋</h1>
 
-<h1 align="center">Miguel Lima Dinois</h1>
-<h3 align="center">👨‍💻 Estudante Senai Araraquara • Técnico em Desenvolvimento de Sistemas 👨‍🎓</h3>
 <p align="center">
-  <i>Fascinado por tecnologia, I.A., e por transformar ideias em código!</i>
+  <img src="https://img.shields.io/badge/Estudante-SENAI%20Araraquara-blue?style=for-the-badge&logo=academia" alt="Estudante SENAI Araraquara"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
 
-## 🌐 Sobre mim
+## 🙋‍♂️ Sobre mim
 
-- 🎓 Estudante no Senai Araraquara
-- 🤖 Apaixonado por Inteligência Artificial & Inovação
-- 🖥️ Explorando HTML, CSS, SQL e Python
-- 😄 Mistura de diversão e profissionalismo
-- 📧 Email: miguel.dinois@aluno.senai.br
+🎓 **Estudante de Desenvolvimento de Sistemas** no SENAI Araraquara  
+💡 Apaixonado por criar automações que otimizam tarefas repetitivas  
+🚀 Motivado por desafios e novas tecnologias
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
 </div>
 
----
-
-## 📊 Estatísticas & Gráficos
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueldinois&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueldinois&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldinois&layout=compact&theme=radical" height="170"/>
-</div>
+- **Python** para automações e scripts inteligentes
+- **HTML & CSS** para desenvolvimento web
+- **SQL** para manipulação e análise de dados
 
 ---
 
-## 🏆 Badges & Conquistas
+## 🛠️ Em busca de…
 
-![Senai](https://img.shields.io/badge/Senai-Araraquara-red?style=for-the-badge)
-![Estudante](https://img.shields.io/badge/Estudante-Técnico%20DS-blue?style=for-the-badge)
-![Tecnologia](https://img.shields.io/badge/Fascinado%20por%20Tecnologia-blueviolet?style=for-the-badge)
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-green?style=for-the-badge)
-
----
-
-## 🕹️ Joguinho: "Qual é o Emoji da Tecnologia?"
-
-<details>
-  <summary>Clique para jogar!</summary>
-  <p>
-    Tente adivinhar o emoji abaixo 👇<br/><br/>
-    💾<br/><br/>
-    <details>
-      <summary>Resposta</summary>
-      <b>É o emoji do disquete: salvando conhecimento!</b>
-    </details>
-  </p>
-</details>
+- Oportunidades para aplicar meus conhecimentos em projetos reais
+- Colaboração em projetos de automação ou desenvolvimento web
+- Compartilhar e aprender com a comunidade de tecnologia
 
 ---
 
-## 💡 Frase Inspiradora
-
-> “A tecnologia é como magia: quando bem usada, transforma o mundo.”  
-> <i>— Miguel Dinois</i>
-
----
-
-## 🎉 Um pouco mais divertido...
+## 🌎 Vamos nos conectar!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="220"/>
-  <br>
-  <b>Obrigado por visitar meu perfil! Vamos juntos transformar ideias em código 🚀</b>
+  <a href="https://instagram.com/eudinois" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-eudinois-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-## 🔗 Conecte-se comigo
-
-- 📧 Email: **miguel.dinois@aluno.senai.br**
-
----
-
-<!-- Dicas para destacar ainda mais:
-- Adicione links para redes sociais.
-- Troque GIFs por outros que te representem.
-- Customize os temas dos gráficos.
-- Atualize a frase motivacional conforme seu momento!
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:3670A0&height=120&section=footer&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=fff&fontAlign=50"/>
+</p>
