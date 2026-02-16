@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://i.imgur.com/9Yr1W6E.png" alt="Banner Miguel Dinois" width="100%" />
 </div>
@@ -30,9 +29,7 @@ Meu foco é unir a engenharia de software com estratégias de SEO para criar pro
   </a>
   
   <br>
-
-  <img src="https://img.shields.io/badge/VIEWS-%2B200M-2374a1?style=for-the-badge&logo=instagram&logoColor=white" alt="200M Views">
-  <img src="https://img.shields.io/badge/VIEWS-%2B200M-2374a1?style=for-the-badge&logo=tiktok&logoColor=white" alt="200M Views">
+<img src="https://img.shields.io/badge/INSTAGRAM_%26_TIKTOK-%2B200M_VIEWS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="200M Views">
   <img src="https://img.shields.io/badge/ALCANCE_GLOBAL-147_PAÍSES-blue?style=for-the-badge&logo=fireship&logoColor=white" alt="147 Countries">
 
   <br><br>
@@ -53,7 +50,7 @@ Meu foco é unir a engenharia de software com estratégias de SEO para criar pro
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,git,ps&theme=dark" alt="My Skills" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,firebase,python,cs,mysql,git,ps&theme=dark" alt="My Skills" />
 
 </div>
 
