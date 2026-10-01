@@ -18,7 +18,7 @@ Atualmente também curso **Desenvolvimento de Sistemas no SENAI**.
 
 - **+200 milhões de visualizações** em conteúdo no Instagram e TikTok
 - alcance em **147 países**
-- projeto de SEO com **+1M mil cliques em cerca de 1 Semana**
+- projeto de SEO com **+1M cliques em cerca de 1 Semana**
 - desenvolvimento de ferramentas internas, automações e produtos digitais
 
 Meu interesse está principalmente na interseção entre:
